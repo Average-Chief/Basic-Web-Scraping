@@ -13,7 +13,6 @@ This repository contains a Python project demonstrating web scraping using the B
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
