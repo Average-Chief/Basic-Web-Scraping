@@ -1,6 +1,6 @@
 # Basic-Web-Scraping with BeautifulSoup
 
-![Web Scraping](https://github.com/Average-Chief/Basic-Web-Scraping/blob/main/web-scraping.jpeg)
+![Web Scraping](https://cdn.discordapp.com/attachments/798603006475239475/1163545761074647121/web-scraping.jpeg)
 
 ## Overview
 
