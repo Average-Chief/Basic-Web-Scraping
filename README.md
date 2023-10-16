@@ -54,10 +54,10 @@ Before using this project, make sure you have the following prerequisites in pla
 
 The project structure is as follows:
 
-main.py: The main Python script for web scraping.
-Scrape.csv: A CSV file containing the info gathered from the site.
-scraping_image.jpg: An image related to web scraping.
-README.md: This file, contains project documentation.
+1. main.py: The main Python script for web scraping.
+2. Scrape.csv: A CSV file containing the info gathered from the site.
+3. web-scraping.jpeg: An image related to web scraping.
+4. README.md: This file, contains project documentation.
 
 ## Contributing
 
